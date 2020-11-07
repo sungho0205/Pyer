@@ -1,0 +1,1 @@
+window.location.href='https://sungho0205.ml'
